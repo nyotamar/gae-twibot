@@ -2,7 +2,7 @@ cron:
 - description: tweet
   url: /tweet
   # ツイートの間隔
-  schedule: every 15 minutes
+  schedule: every 90 minutes
 
 # リプライに反応する場合、有効にする
 - description: reply
